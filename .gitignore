@@ -1,0 +1,11 @@
+# misc
+.DS_Store
+package-lock.json
+template.md
+
+# IDE
+.idea
+
+# dependencies
+/node_modules
+
