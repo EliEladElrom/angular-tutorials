@@ -10,4 +10,4 @@ If you struggle with front-end development or related libraries and have a burni
 Table of content
 ----------------
 
-* image-uploader
+* image-uploader - https://medium.com/master-angular/upload-images-with-angular-10-express-4-17-1-node-2020-tutorial-c02f932f50ff
