@@ -1,6 +1,6 @@
 # angular-tutorials
 
-Hello and welcome. For your convenience, in this library I included a list of the projects I created in the tutorials and courses to help you learn Angular as well as React related libraries. I encourge you to create the projects yourself and just use this as a reference.  As John Dewey said we learn by doing:
+Hello and welcome. For your convenience, in this library I included a list of the projects I created in the tutorials and courses to help you master Angular as well as React related libraries. I encourage you to create the projects yourself and just use this as a reference.  As John Dewey said we learn by doing:
 > “We do not learn from experience... we learn from reflecting on experience.” 
 
 If you learning React or interesting of learning React, I invite you to checkout my react-tutorials: https://github.com/EliEladElrom/react-tutorials.
